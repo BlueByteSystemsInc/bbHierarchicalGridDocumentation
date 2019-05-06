@@ -1,8 +1,206 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="AcceptReturn property" Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_AcceptReturn.htm" />
+  <HelpKINode Title="Add method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Add.htm" />
+  <HelpKINode Title="Arabic enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="Background property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Background.htm" />
+  <HelpKINode Title="bbColumnOrderAttribute class">
+    <HelpKINode Title="bbColumnOrderAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbColumnOrderAttribute.bbColumnOrderAttribute constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute__ctor.htm" />
+  <HelpKINode Title="bbColumnOrderAttribute.Order property" Url="html/P_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute_Order.htm" />
+  <HelpKINode Title="bbEditablePropertyAttribute class">
+    <HelpKINode Title="bbEditablePropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbEditablePropertyAttribute.AcceptReturn property" Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_AcceptReturn.htm" />
+  <HelpKINode Title="bbEditablePropertyAttribute.bbEditablePropertyAttribute constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute__ctor.htm" />
+  <HelpKINode Title="bbEditablePropertyAttribute.ReadOnly property" Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_ReadOnly.htm" />
+  <HelpKINode Title="bbException class">
+    <HelpKINode Title="bbException Class" Url="html/T_bbHierarchicalGrid_Exceptions_bbException.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Exceptions_bbException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbException.bbException constructor" Url="html/M_bbHierarchicalGrid_Exceptions_bbException__ctor.htm" />
+  <HelpKINode Title="bbHierarchicalDataGrid class">
+    <HelpKINode Title="bbHierarchicalDataGrid Class" Url="html/T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_bbHierarchicalDataGrid__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbHierarchicalDataGrid.bbHierarchicalDataGrid constructor" Url="html/M_bbHierarchicalGrid_bbHierarchicalDataGrid__ctor.htm" />
+  <HelpKINode Title="bbHierarchicalDataGrid.InitializeComponent method" Url="html/M_bbHierarchicalGrid_bbHierarchicalDataGrid_InitializeComponent.htm" />
+  <HelpKINode Title="bbHierarchicalGrid namespace" Url="html/N_bbHierarchicalGrid.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes namespace" Url="html/N_bbHierarchicalGrid_Attributes.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes.bbColumnOrderAttribute class" Url="html/T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes.bbEditablePropertyAttribute class" Url="html/T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes.bbIgnorePropertyAttribute class" Url="html/T_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes.bbNumericUpPropertyAttribute class" Url="html/T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes.bbSortableAttribute class" Url="html/T_bbHierarchicalGrid_Attributes_bbSortableAttribute.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Attributes.bbUseDateTimePickerAttribute class" Url="html/T_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.bbHierarchicalDataGrid class" Url="html/T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Core namespace" Url="html/N_bbHierarchicalGrid_Core.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Core.bbUtility class" Url="html/T_bbHierarchicalGrid_Core_bbUtility.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Enums namespace" Url="html/N_bbHierarchicalGrid_Enums.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Enums.DisplayLanguage enumeration" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Exceptions namespace" Url="html/N_bbHierarchicalGrid_Exceptions.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Exceptions.bbException class" Url="html/T_bbHierarchicalGrid_Exceptions_bbException.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Models namespace" Url="html/N_bbHierarchicalGrid_Models.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Models.bbItem class" Url="html/T_bbHierarchicalGrid_Models_bbItem.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.ViewModels namespace" Url="html/N_bbHierarchicalGrid_ViewModels.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.ViewModels.bbViewModel(Of T) class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.ViewModels.bbViewModel&lt;T&gt; class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+  <HelpKINode Title="bbIgnorePropertyAttribute class">
+    <HelpKINode Title="bbIgnorePropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbIgnorePropertyAttribute.bbIgnorePropertyAttribute constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute__ctor.htm" />
+  <HelpKINode Title="bbItem class">
+    <HelpKINode Title="bbItem Class" Url="html/T_bbHierarchicalGrid_Models_bbItem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Models_bbItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_bbHierarchicalGrid_Models_bbItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_bbHierarchicalGrid_Models_bbItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbItem.bbItem constructor" Url="html/M_bbHierarchicalGrid_Models_bbItem__ctor.htm" />
+  <HelpKINode Title="bbItem.Children property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Children.htm" />
+  <HelpKINode Title="bbItem.Expanded property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Expanded.htm" />
+  <HelpKINode Title="bbItem.HasChildren property" Url="html/P_bbHierarchicalGrid_Models_bbItem_HasChildren.htm" />
+  <HelpKINode Title="bbItem.Invalidate method" Url="html/M_bbHierarchicalGrid_Models_bbItem_Invalidate.htm" />
+  <HelpKINode Title="bbItem.IsChecked property" Url="html/P_bbHierarchicalGrid_Models_bbItem_IsChecked.htm" />
+  <HelpKINode Title="bbItem.Name property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Name.htm" />
+  <HelpKINode Title="bbItem.Parent property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Parent.htm" />
+  <HelpKINode Title="bbItem.Selected property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Selected.htm" />
+  <HelpKINode Title="bbItem.Thumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Thumbnail.htm" />
+  <HelpKINode Title="bbItem.UseThumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_UseThumbnail.htm" />
+  <HelpKINode Title="bbItem.Visible property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Visible.htm" />
+  <HelpKINode Title="bbNumericUpPropertyAttribute class">
+    <HelpKINode Title="bbNumericUpPropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbNumericUpPropertyAttribute.bbNumericUpPropertyAttribute constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute__ctor.htm" />
+  <HelpKINode Title="bbNumericUpPropertyAttribute.Increment property" Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Increment.htm" />
+  <HelpKINode Title="bbNumericUpPropertyAttribute.Max property" Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Max.htm" />
+  <HelpKINode Title="bbNumericUpPropertyAttribute.Min property" Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Min.htm" />
+  <HelpKINode Title="bbSortableAttribute class">
+    <HelpKINode Title="bbSortableAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbSortableAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbSortableAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbSortableAttribute.bbSortableAttribute constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbSortableAttribute__ctor.htm" />
+  <HelpKINode Title="bbUseDateTimePickerAttribute class">
+    <HelpKINode Title="bbUseDateTimePickerAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbUseDateTimePickerAttribute.bbUseDateTimePickerAttribute constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute__ctor.htm" />
+  <HelpKINode Title="bbUtility class">
+    <HelpKINode Title="bbUtility Class" Url="html/T_bbHierarchicalGrid_Core_bbUtility.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_bbHierarchicalGrid_Core_bbUtility.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbUtility.ToBitmapImage method" Url="html/M_bbHierarchicalGrid_Core_bbUtility_ToBitmapImage.htm" />
+  <HelpKINode Title="bbViewModel(Of T) class">
+    <HelpKINode Title="bbViewModel(T) Class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbViewModel(Of T).Add method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Add.htm" />
+  <HelpKINode Title="bbViewModel(Of T).Background property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Background.htm" />
+  <HelpKINode Title="bbViewModel(Of T).bbViewModel constructor" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1__ctor.htm" />
+  <HelpKINode Title="bbViewModel(Of T).CanUserReorderColumns property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
+  <HelpKINode Title="bbViewModel(Of T).ExpandCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
+  <HelpKINode Title="bbViewModel(Of T).FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
+  <HelpKINode Title="bbViewModel(Of T).GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
+  <HelpKINode Title="bbViewModel(Of T).GetSelectedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
+  <HelpKINode Title="bbViewModel(Of T).Initialize method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Initialize.htm" />
+  <HelpKINode Title="bbViewModel(Of T).Invalidate method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Invalidate.htm" />
+  <HelpKINode Title="bbViewModel(Of T).IsBusy property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_IsBusy.htm" />
+  <HelpKINode Title="bbViewModel(Of T).ItemAdded event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemAdded.htm" />
+  <HelpKINode Title="bbViewModel(Of T).ItemRemoved event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemRemoved.htm" />
+  <HelpKINode Title="bbViewModel(Of T).Items property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Items.htm" />
+  <HelpKINode Title="bbViewModel(Of T).LoadCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_LoadCommand.htm" />
+  <HelpKINode Title="bbViewModel(Of T).Remove method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Remove.htm" />
+  <HelpKINode Title="bbViewModel(Of T).SearchCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchCommand.htm" />
+  <HelpKINode Title="bbViewModel(Of T).SearchFunction property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchFunction.htm" />
+  <HelpKINode Title="bbViewModel(Of T).SearchToolBarVisibility property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchToolBarVisibility.htm" />
+  <HelpKINode Title="bbViewModel(Of T).SelectedItem property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SelectedItem.htm" />
+  <HelpKINode Title="bbViewModel(Of T).SortCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SortCommand.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt; class">
+    <HelpKINode Title="bbViewModel(T) Class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbViewModel&lt;T&gt;.Add method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Add.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.Background property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Background.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.bbViewModel constructor" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1__ctor.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.CanUserReorderColumns property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.ExpandCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.GetSelectedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.Initialize method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Initialize.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.Invalidate method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Invalidate.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.IsBusy property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_IsBusy.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.ItemAdded event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemAdded.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.ItemRemoved event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemRemoved.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.Items property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Items.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.LoadCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_LoadCommand.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.Remove method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Remove.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.SearchCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchCommand.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.SearchFunction property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchFunction.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.SearchToolBarVisibility property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchToolBarVisibility.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.SelectedItem property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SelectedItem.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.SortCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SortCommand.htm" />
+  <HelpKINode Title="CanUserReorderColumns property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
+  <HelpKINode Title="Children property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Children.htm" />
+  <HelpKINode Title="Chinese enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="DisplayLanguage enumeration" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="English enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="ExpandCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
+  <HelpKINode Title="Expanded property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Expanded.htm" />
+  <HelpKINode Title="FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
+  <HelpKINode Title="French enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
+  <HelpKINode Title="GetSelectedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
+  <HelpKINode Title="HasChildren property" Url="html/P_bbHierarchicalGrid_Models_bbItem_HasChildren.htm" />
+  <HelpKINode Title="Increment property" Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Increment.htm" />
+  <HelpKINode Title="Initialize method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Initialize.htm" />
+  <HelpKINode Title="InitializeComponent method" Url="html/M_bbHierarchicalGrid_bbHierarchicalDataGrid_InitializeComponent.htm" />
+  <HelpKINode Title="Invalidate method">
+    <HelpKINode Title="bbItem.Invalidate Method " Url="html/M_bbHierarchicalGrid_Models_bbItem_Invalidate.htm" />
+    <HelpKINode Title="bbViewModel(T).Invalidate Method " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Invalidate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsBusy property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_IsBusy.htm" />
+  <HelpKINode Title="IsChecked property" Url="html/P_bbHierarchicalGrid_Models_bbItem_IsChecked.htm" />
+  <HelpKINode Title="ItemAdded event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemAdded.htm" />
+  <HelpKINode Title="ItemRemoved event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemRemoved.htm" />
+  <HelpKINode Title="Items property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Items.htm" />
+  <HelpKINode Title="LoadCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_LoadCommand.htm" />
+  <HelpKINode Title="Max property" Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Max.htm" />
+  <HelpKINode Title="Min property" Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Min.htm" />
+  <HelpKINode Title="Name property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Name.htm" />
+  <HelpKINode Title="Order property" Url="html/P_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute_Order.htm" />
+  <HelpKINode Title="Parent property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Parent.htm" />
+  <HelpKINode Title="ReadOnly property" Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_ReadOnly.htm" />
+  <HelpKINode Title="Remove method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Remove.htm" />
+  <HelpKINode Title="SearchCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchCommand.htm" />
+  <HelpKINode Title="SearchFunction property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchFunction.htm" />
+  <HelpKINode Title="SearchToolBarVisibility property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchToolBarVisibility.htm" />
+  <HelpKINode Title="Selected property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Selected.htm" />
+  <HelpKINode Title="SelectedItem property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SelectedItem.htm" />
+  <HelpKINode Title="SortCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SortCommand.htm" />
+  <HelpKINode Title="Spanish enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="Thumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Thumbnail.htm" />
+  <HelpKINode Title="ToBitmapImage method" Url="html/M_bbHierarchicalGrid_Core_bbUtility_ToBitmapImage.htm" />
+  <HelpKINode Title="Undefined enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="UseThumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_UseThumbnail.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/f98f62f3-6a00-4942-a668-ffc76c41a17d.htm" />
     <HelpKINode Title="history" Url="html/007ef1e9-5f14-4416-8d67-47a014ee62ab.htm" />
   </HelpKINode>
+  <HelpKINode Title="Visible property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Visible.htm" />
   <HelpKINode Title="Welcome" Url="html/20303d4a-c075-4e31-9440-6fb14852f806.htm" />
 </HelpKI>
