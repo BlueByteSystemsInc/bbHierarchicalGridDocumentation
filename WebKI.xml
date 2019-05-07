@@ -48,6 +48,7 @@
   <HelpKINode Title="bbHierarchicalGrid.Exceptions.bbException class" Url="html/T_bbHierarchicalGrid_Exceptions_bbException.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Models namespace" Url="html/N_bbHierarchicalGrid_Models.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Models.bbItem class" Url="html/T_bbHierarchicalGrid_Models_bbItem.htm" />
+  <HelpKINode Title="bbHierarchicalGrid.Models.bbItemExtension class" Url="html/T_bbHierarchicalGrid_Models_bbItemExtension.htm" />
   <HelpKINode Title="bbHierarchicalGrid.ViewModels namespace" Url="html/N_bbHierarchicalGrid_ViewModels.htm" />
   <HelpKINode Title="bbHierarchicalGrid.ViewModels.bbViewModel(Of T) class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
   <HelpKINode Title="bbHierarchicalGrid.ViewModels.bbViewModel&lt;T&gt; class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm" />
@@ -74,6 +75,12 @@
   <HelpKINode Title="bbItem.Thumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Thumbnail.htm" />
   <HelpKINode Title="bbItem.UseThumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_UseThumbnail.htm" />
   <HelpKINode Title="bbItem.Visible property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Visible.htm" />
+  <HelpKINode Title="bbItemExtension class">
+    <HelpKINode Title="bbItemExtension Class" Url="html/T_bbHierarchicalGrid_Models_bbItemExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_bbHierarchicalGrid_Models_bbItemExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="bbItemExtension.GetAllChildren(Of T) method" Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
+  <HelpKINode Title="bbItemExtension.GetAllChildren&lt;T&gt; method" Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
   <HelpKINode Title="bbNumericUpPropertyAttribute class">
     <HelpKINode Title="bbNumericUpPropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/M_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute__ctor.htm" />
@@ -163,6 +170,8 @@
   <HelpKINode Title="Expanded property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Expanded.htm" />
   <HelpKINode Title="FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
   <HelpKINode Title="French enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="GetAllChildren(Of T) method" Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
+  <HelpKINode Title="GetAllChildren&lt;T&gt; method" Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
   <HelpKINode Title="GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
   <HelpKINode Title="GetSelectedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
   <HelpKINode Title="HasChildren property" Url="html/P_bbHierarchicalGrid_Models_bbItem_HasChildren.htm" />
