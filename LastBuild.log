@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2018.7.8.0" projectFile="P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\bbHierarchicalGrid.Documentation.shfbproj" started="5/10/2019 5:17:48 PM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2018.7.8.0" projectFile="P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\bbHierarchicalGrid.Documentation.shfbproj" started="5/10/2019 8:43:46 PM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -13,6 +13,9 @@ Loading and initializing plug-ins...
 Lightweight Website Style Version 2018.7.8.0
 Copyright &#169; 2006-2018, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
     Ignoring read-only/hidden folder P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\.git
@@ -29,16 +32,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0070
+</plugIn>    Last step completed in 00:00:00.0100
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0020
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateRefInfo.proj]
-Build started 5/10/2019 5:17:51 PM.
+Build started 5/10/2019 8:43:48 PM.
 Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -55,12 +58,12 @@ GenerateRefInfo:
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
 Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateRefInfo.proj&quot; (default targets).
-    Last step completed in 00:00:00.9634
+    Last step completed in 00:00:00.8328
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - TransformManifest.proj]
-Build started 5/10/2019 5:17:52 PM.
+Build started 5/10/2019 8:43:49 PM.
 Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2018.7.8.0)
@@ -77,11 +80,11 @@ TransformManifest:
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
 Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\TransformManifest.proj&quot; (default targets).
-    Last step completed in 00:00:00.5475
+    Last step completed in 00:00:00.4249
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0100
+    Last step completed in 00:00:00.0160
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -96,20 +99,20 @@ Generating conceptual topic files
     P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\VersionHistory.aml -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\007ef1e9-5f14-4416-8d67-47a014ee62ab.xml
     Parsing topic file &#39;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\v1.0.0.0.aml&#39;
     P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\v1.0.0.0.aml -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\f98f62f3-6a00-4942-a668-ffc76c41a17d.xml
-    Last step completed in 00:00:00.0588
+    Last step completed in 00:00:00.0479
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     Merging topic IDs into manifest.xml
-    Last step completed in 00:00:00.0189
+    Last step completed in 00:00:00.0130
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\icons\favicon.ico -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\favicon.ico
 P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\icons\Help.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\Help.png
-    Last step completed in 00:00:00.0160
+    Last step completed in 00:00:00.0140
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -118,7 +121,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 5/10/2019 5:17:53 PM.
+Build started 5/10/2019 8:43:49 PM.
 Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2018.7.8.0)
@@ -127,12 +130,12 @@ GenerateIntermediateTOC:
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
 Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateIntermediateTOC.proj&quot; (default targets).
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.2533
+    Last step completed in 00:00:00.2164
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.2234
+    Last step completed in 00:00:00.1805
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -140,12 +143,12 @@ P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\
   Updating reference topic configurations.
   Updating conceptual topic configurations.
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00.0100
+    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - BuildTopics.proj]
-Build started 5/10/2019 5:17:53 PM.
+Build started 5/10/2019 8:43:50 PM.
 Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj&quot; on node 1 (default targets).
 BuildTopics:
   BuildAssembler (v2018.7.8.0)
@@ -172,11 +175,11 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 8 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
 Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj&quot; (default targets).
-    Last step completed in 00:00:10.4361
+    Last step completed in 00:00:07.3872
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0120
+    Last step completed in 00:00:00.0060
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -192,7 +195,7 @@ Processed 86 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\WebKI.xml
 Saving website table of contents to P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\WebTOC.xml
-    Last step completed in 00:00:00.5475
+    Last step completed in 00:00:00.2623
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -273,32 +276,32 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00.7221
+    Last step completed in 00:00:00.4967
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00.2932
+</plugIn>    Last step completed in 00:00:00.1695
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 209 files for the website content
-    Last step completed in 00:00:01.3913
+    Last step completed in 00:00:00.6612
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.3790
+    Last step completed in 00:00:00.1815
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 5/10/2019 5:18:07 PM.  Total time: 00:00:18.6429
+Build completed successfully at 5/10/2019 8:43:59 PM.  Total time: 00:00:12.4199
 
 </buildStep>
 </shfbBuild>
