@@ -2,69 +2,70 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to the bbHierarchicalGrid library documentation" Url="html/20303d4a-c075-4e31-9440-6fb14852f806.htm" />
-  <HelpTOCNode Id="3db0edc8-00b6-4536-b5cc-79bec29c503e" Title="Version History" Url="html/007ef1e9-5f14-4416-8d67-47a014ee62ab.htm">
+  <HelpTOCNode Id="afec57ee-b1b9-43c9-99ac-c3939a5aab18" Title="Version History" Url="html/007ef1e9-5f14-4416-8d67-47a014ee62ab.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/f98f62f3-6a00-4942-a668-ffc76c41a17d.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="ac55c64e-3403-45cb-8157-8ac56a63467f" Title="bbHierarchicalGrid" Url="html/R_Project_bbHierarchicalGrid_Documentation.htm">
-    <HelpTOCNode Id="8536b4f0-ba67-45ba-aa7a-7332b81d7a11" Title="bbHierarchicalGrid" Url="html/N_bbHierarchicalGrid.htm">
-      <HelpTOCNode Id="2d2a872e-5c70-4e0f-81bc-d10d3945acad" Title="bbHierarchicalDataGrid Class" Url="html/T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm">
+  <HelpTOCNode Id="68475d29-4560-4777-a33e-1c72170ddec9" Title="bbHierarchicalGrid" Url="html/R_Project_bbHierarchicalGrid_Documentation.htm">
+    <HelpTOCNode Id="bf1c115f-98af-4e38-85f9-dbbe07f54159" Title="bbHierarchicalGrid" Url="html/N_bbHierarchicalGrid.htm">
+      <HelpTOCNode Id="94c398fd-9d8f-4a91-bf6a-7d493bc59a12" Title="bbHierarchicalDataGrid Class" Url="html/T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm">
         <HelpTOCNode Title="bbHierarchicalDataGrid Constructor " Url="html/M_bbHierarchicalGrid_bbHierarchicalDataGrid__ctor.htm" />
-        <HelpTOCNode Id="20628d0b-07b5-4d09-b2c8-7259b3610672" Title="bbHierarchicalDataGrid Methods" Url="html/Methods_T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm">
+        <HelpTOCNode Id="a16ea072-2797-4c3b-a287-85d9b12123bd" Title="bbHierarchicalDataGrid Methods" Url="html/Methods_T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_bbHierarchicalGrid_bbHierarchicalDataGrid_InitializeComponent.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bff03585-5bb4-49c8-9ef9-524bcff1e3dc" Title="bbHierarchicalGrid.Attributes" Url="html/N_bbHierarchicalGrid_Attributes.htm">
-      <HelpTOCNode Id="cc7c6f00-e6fb-48bd-b5f1-14a6b87fe3b1" Title="bbColumnOrderAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm">
+    <HelpTOCNode Id="bdd4079d-8156-41cb-9ec0-f830eac652fc" Title="bbHierarchicalGrid.Attributes" Url="html/N_bbHierarchicalGrid_Attributes.htm">
+      <HelpTOCNode Id="6d474481-5be6-4f98-b193-5744e5ac88e3" Title="bbColumnOrderAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm">
         <HelpTOCNode Title="bbColumnOrderAttribute Constructor " Url="html/M_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute__ctor.htm" />
-        <HelpTOCNode Id="f8220486-5e7f-4043-89e0-e78a8879bb2e" Title="bbColumnOrderAttribute Properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm">
+        <HelpTOCNode Id="faf770cd-d437-4db3-92f0-a76e97e06e96" Title="bbColumnOrderAttribute Properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm">
           <HelpTOCNode Title="Order Property " Url="html/P_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute_Order.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7a915c96-01bc-4cb2-b4e8-90fd1763ee12" Title="bbEditablePropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm">
+      <HelpTOCNode Id="803c47d1-3a1a-4da8-998f-f25e98231bd1" Title="bbEditablePropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm">
         <HelpTOCNode Title="bbEditablePropertyAttribute Constructor " Url="html/M_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute__ctor.htm" />
-        <HelpTOCNode Id="ec8784f3-7bc2-4c06-aee3-8a8d597521ca" Title="bbEditablePropertyAttribute Properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm">
+        <HelpTOCNode Id="c306c4f9-3d21-4d3b-8f7c-41e1a48c175a" Title="bbEditablePropertyAttribute Properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute.htm">
           <HelpTOCNode Title="AcceptReturn Property " Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_AcceptReturn.htm" />
           <HelpTOCNode Title="ReadOnly Property " Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_ReadOnly.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="83a23a87-8e3c-4e69-bceb-9f7de60f5888" Title="bbIgnorePropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute.htm">
+      <HelpTOCNode Id="93ffd1b9-7827-4c07-8356-c4ad0c9fc6ea" Title="bbIgnorePropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute.htm">
         <HelpTOCNode Title="bbIgnorePropertyAttribute Constructor " Url="html/M_bbHierarchicalGrid_Attributes_bbIgnorePropertyAttribute__ctor.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="abc0df65-ab57-49d3-8538-aab8865cecf7" Title="bbNumericUpPropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm">
+      <HelpTOCNode Id="a396d8cf-a7fc-4019-a54f-6723e44facb0" Title="bbNumericUpPropertyAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm">
         <HelpTOCNode Title="bbNumericUpPropertyAttribute Constructor " Url="html/M_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute__ctor.htm" />
-        <HelpTOCNode Id="b9f2188f-a7b3-4f36-a51c-c31cd8c31928" Title="bbNumericUpPropertyAttribute Properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm">
+        <HelpTOCNode Id="eff1821b-2556-4428-ad5e-95f5bf7216ef" Title="bbNumericUpPropertyAttribute Properties" Url="html/Properties_T_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute.htm">
           <HelpTOCNode Title="Increment Property " Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Increment.htm" />
           <HelpTOCNode Title="Max Property " Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Max.htm" />
           <HelpTOCNode Title="Min Property " Url="html/P_bbHierarchicalGrid_Attributes_bbNumericUpPropertyAttribute_Min.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="09890b27-d798-4f3b-a81b-c5abe0ab7ed6" Title="bbSortableAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbSortableAttribute.htm">
+      <HelpTOCNode Id="439363be-4313-4d58-81ec-54896b5d2d96" Title="bbSortableAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbSortableAttribute.htm">
         <HelpTOCNode Title="bbSortableAttribute Constructor " Url="html/M_bbHierarchicalGrid_Attributes_bbSortableAttribute__ctor.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="63db045b-a078-4386-ab3d-dd2082ca293f" Title="bbUseDateTimePickerAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute.htm">
+      <HelpTOCNode Id="a6bd5f72-ef54-4d95-8386-3b7c7be49a83" Title="bbUseDateTimePickerAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute.htm">
         <HelpTOCNode Title="bbUseDateTimePickerAttribute Constructor " Url="html/M_bbHierarchicalGrid_Attributes_bbUseDateTimePickerAttribute__ctor.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="51c3a229-3cc4-4559-86b7-030a81bac691" Title="bbHierarchicalGrid.Core" Url="html/N_bbHierarchicalGrid_Core.htm">
-      <HelpTOCNode Id="5fda6014-96f6-436a-bc7c-cf1a43f3e508" Title="bbUtility Class" Url="html/T_bbHierarchicalGrid_Core_bbUtility.htm">
-        <HelpTOCNode Id="327ccbe5-b041-475d-8bbc-2c0cc6cb289c" Title="bbUtility Methods" Url="html/Methods_T_bbHierarchicalGrid_Core_bbUtility.htm">
+    <HelpTOCNode Id="3c687c8b-92b4-4c51-94e5-babfc0152269" Title="bbHierarchicalGrid.Core" Url="html/N_bbHierarchicalGrid_Core.htm">
+      <HelpTOCNode Id="64625744-510e-4be5-b302-a4815fd4d27e" Title="bbUtility Class" Url="html/T_bbHierarchicalGrid_Core_bbUtility.htm">
+        <HelpTOCNode Id="795f04ab-e6b8-4d7c-9da2-ae79f9418e35" Title="bbUtility Methods" Url="html/Methods_T_bbHierarchicalGrid_Core_bbUtility.htm">
           <HelpTOCNode Title="ToBitmapImage Method " Url="html/M_bbHierarchicalGrid_Core_bbUtility_ToBitmapImage.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0d670e6d-ab81-492f-975a-40fb53dca12e" Title="bbHierarchicalGrid.Enums" Url="html/N_bbHierarchicalGrid_Enums.htm">
+    <HelpTOCNode Id="3f693341-5100-469b-9ab7-edb7a4d011ce" Title="bbHierarchicalGrid.Enums" Url="html/N_bbHierarchicalGrid_Enums.htm">
       <HelpTOCNode Title="DisplayLanguage Enumeration" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+      <HelpTOCNode Title="ExpanderStyle Enumeration" Url="html/T_bbHierarchicalGrid_Enums_ExpanderStyle.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="5befbaa9-25d3-4ab0-9d3b-b683781245c8" Title="bbHierarchicalGrid.Exceptions" Url="html/N_bbHierarchicalGrid_Exceptions.htm">
-      <HelpTOCNode Id="0845e1f7-0c1d-4941-99ef-f3b3e661445b" Title="bbException Class" Url="html/T_bbHierarchicalGrid_Exceptions_bbException.htm">
+    <HelpTOCNode Id="5a5f9fbe-337e-4190-b0a4-38ee5e175d2e" Title="bbHierarchicalGrid.Exceptions" Url="html/N_bbHierarchicalGrid_Exceptions.htm">
+      <HelpTOCNode Id="e8340768-e949-405d-b0af-e2b41cd2099f" Title="bbException Class" Url="html/T_bbHierarchicalGrid_Exceptions_bbException.htm">
         <HelpTOCNode Title="bbException Constructor " Url="html/M_bbHierarchicalGrid_Exceptions_bbException__ctor.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f4a9895c-90d6-4501-b032-32bfb7260f31" Title="bbHierarchicalGrid.Models" Url="html/N_bbHierarchicalGrid_Models.htm">
-      <HelpTOCNode Id="ae8474c3-6b9e-4850-bb1b-89f47e3aa04d" Title="bbItem Class" Url="html/T_bbHierarchicalGrid_Models_bbItem.htm">
+    <HelpTOCNode Id="5031315a-9f23-4950-9e4c-b0469d214447" Title="bbHierarchicalGrid.Models" Url="html/N_bbHierarchicalGrid_Models.htm">
+      <HelpTOCNode Id="8b7a5a1e-40de-4f72-928f-a1b1c2854c51" Title="bbItem Class" Url="html/T_bbHierarchicalGrid_Models_bbItem.htm">
         <HelpTOCNode Title="bbItem Constructor " Url="html/M_bbHierarchicalGrid_Models_bbItem__ctor.htm" />
-        <HelpTOCNode Id="8bb4b4de-a18f-414e-a827-2bfdc0a5a792" Title="bbItem Properties" Url="html/Properties_T_bbHierarchicalGrid_Models_bbItem.htm">
+        <HelpTOCNode Id="37f5be75-f8f6-4163-9dbb-5c916d26b39a" Title="bbItem Properties" Url="html/Properties_T_bbHierarchicalGrid_Models_bbItem.htm">
           <HelpTOCNode Title="Children Property " Url="html/P_bbHierarchicalGrid_Models_bbItem_Children.htm" />
           <HelpTOCNode Title="Expanded Property " Url="html/P_bbHierarchicalGrid_Models_bbItem_Expanded.htm" />
           <HelpTOCNode Title="HasChildren Property " Url="html/P_bbHierarchicalGrid_Models_bbItem_HasChildren.htm" />
@@ -76,20 +77,20 @@
           <HelpTOCNode Title="UseThumbnail Property " Url="html/P_bbHierarchicalGrid_Models_bbItem_UseThumbnail.htm" />
           <HelpTOCNode Title="Visible Property " Url="html/P_bbHierarchicalGrid_Models_bbItem_Visible.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9e56c0c2-a461-443f-8998-be2e96a7bb35" Title="bbItem Methods" Url="html/Methods_T_bbHierarchicalGrid_Models_bbItem.htm">
+        <HelpTOCNode Id="45d12a6a-cbf9-4f05-9b79-44af9103e726" Title="bbItem Methods" Url="html/Methods_T_bbHierarchicalGrid_Models_bbItem.htm">
           <HelpTOCNode Title="Invalidate Method " Url="html/M_bbHierarchicalGrid_Models_bbItem_Invalidate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b157e06a-4353-4492-89f9-ef0cffb40d98" Title="bbItemExtension Class" Url="html/T_bbHierarchicalGrid_Models_bbItemExtension.htm">
-        <HelpTOCNode Id="a3ba7d38-997c-4269-acce-10f581e486fd" Title="bbItemExtension Methods" Url="html/Methods_T_bbHierarchicalGrid_Models_bbItemExtension.htm">
+      <HelpTOCNode Id="c4219616-4cd5-4911-8ddc-77433d6965fb" Title="bbItemExtension Class" Url="html/T_bbHierarchicalGrid_Models_bbItemExtension.htm">
+        <HelpTOCNode Id="ebc661d4-94ed-4456-830e-3fcd8a741768" Title="bbItemExtension Methods" Url="html/Methods_T_bbHierarchicalGrid_Models_bbItemExtension.htm">
           <HelpTOCNode Title="GetAllChildren(T) Method " Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9a237b44-c610-4c42-adc6-35fb673c33cf" Title="bbHierarchicalGrid.ViewModels" Url="html/N_bbHierarchicalGrid_ViewModels.htm">
-      <HelpTOCNode Id="5dc55c17-59d8-4aba-8868-a8fe79b4f4cd" Title="bbViewModel(T) Class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
+    <HelpTOCNode Id="04d83ea8-6b9d-45ec-9d16-3444fd06fed5" Title="bbHierarchicalGrid.ViewModels" Url="html/N_bbHierarchicalGrid_ViewModels.htm">
+      <HelpTOCNode Id="b839f50c-a3d7-4cb4-b683-5a98ff1ff85d" Title="bbViewModel(T) Class" Url="html/T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
         <HelpTOCNode Title="bbViewModel(T) Constructor " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1__ctor.htm" />
-        <HelpTOCNode Id="4f79042f-da47-46d8-9cfe-dd7525d85c07" Title="bbViewModel(T) Properties" Url="html/Properties_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
+        <HelpTOCNode Id="fdd77ac4-9a18-4c64-bade-5185e86276af" Title="bbViewModel(T) Properties" Url="html/Properties_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
           <HelpTOCNode Title="Background Property " Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Background.htm" />
           <HelpTOCNode Title="CanUserReorderColumns Property " Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
           <HelpTOCNode Title="ExpandCommand Property " Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
@@ -103,7 +104,7 @@
           <HelpTOCNode Title="SelectedItem Property " Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SelectedItem.htm" />
           <HelpTOCNode Title="SortCommand Property " Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SortCommand.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="49d8d7ef-faf5-4222-9f91-e9b74ec333bb" Title="bbViewModel(T) Methods" Url="html/Methods_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
+        <HelpTOCNode Id="0e237240-19d6-4ef9-a8ac-79acae31f775" Title="bbViewModel(T) Methods" Url="html/Methods_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
           <HelpTOCNode Title="Add Method " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Add.htm" />
           <HelpTOCNode Title="GetCheckedItems Method " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
           <HelpTOCNode Title="GetSelectedItems Method " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
@@ -111,7 +112,7 @@
           <HelpTOCNode Title="Invalidate Method " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Invalidate.htm" />
           <HelpTOCNode Title="Remove Method " Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Remove.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ef448759-e92f-496d-8796-134fad8f8e2a" Title="bbViewModel(T) Events" Url="html/Events_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
+        <HelpTOCNode Id="c406f5d3-93f0-4b54-b989-666954c082a6" Title="bbViewModel(T) Events" Url="html/Events_T_bbHierarchicalGrid_ViewModels_bbViewModel_1.htm">
           <HelpTOCNode Title="ItemAdded Event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemAdded.htm" />
           <HelpTOCNode Title="ItemRemoved Event" Url="html/E_bbHierarchicalGrid_ViewModels_bbViewModel_1_ItemRemoved.htm" />
         </HelpTOCNode>
