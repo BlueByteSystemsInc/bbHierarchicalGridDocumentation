@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2018.7.8.0" projectFile="P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\bbHierarchicalGrid.Documentation.shfbproj" started="5/10/2019 8:43:46 PM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2019.4.14.0" projectFile="P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\bbHierarchicalGrid.Documentation.shfbproj" started="5/31/2019 1:25:39 AM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
 Locating components in the following folder(s):
-    P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation
+    P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation
     C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
     C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
 Using framework reflection data for &#39;.NET Framework 4.5.2&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
@@ -13,36 +13,33 @@ Loading and initializing plug-ins...
 Lightweight Website Style Version 2018.7.8.0
 Copyright &#169; 2006-2018, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
-</buildStep>
-<buildStep step="ClearWorkFolder">
-Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
-    Ignoring read-only/hidden folder P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\.git
+    Ignoring read-only/hidden folder P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\.git
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.dll
-    Found assembly &#39;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.dll&#39;
-Source: P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.xml
+Source: P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.dll
+    Found assembly &#39;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.dll&#39;
+Source: P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.xml
 
 Copying XML comments files
-    P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.xml -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\bbHierarchicalGrid.xml
+    P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid\bin\Debug\bbHierarchicalGrid.xml -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\bbHierarchicalGrid.xml
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0100
+</plugIn>    Last step completed in 00:00:00.0280
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0079
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateRefInfo.proj]
-Build started 5/10/2019 8:43:48 PM.
-Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateRefInfo.proj]
+Build started 5/31/2019 1:25:43 AM.
+Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
 GenerateRefInfo:
@@ -52,25 +49,25 @@ GenerateRefInfo:
   No source code context base path specified.  Source context information is unavailable.
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
   Wrote information on 7 namespaces, 14 types, and 58 members
-  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  Copying file from &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\reflection.org&quot; to &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\reflection.all&quot;.
   XslTransform (v2018.7.8.0)
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
-Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateRefInfo.proj&quot; (default targets).
-    Last step completed in 00:00:00.8328
+Done Building Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateRefInfo.proj&quot; (default targets).
+    Last step completed in 00:00:01.3474
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
-[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - TransformManifest.proj]
-Build started 5/10/2019 8:43:49 PM.
-Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\TransformManifest.proj&quot; on node 1 (default targets).
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - TransformManifest.proj]
+Build started 5/31/2019 1:25:45 AM.
+Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2018.7.8.0)
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
-  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  Copying file from &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\reflection.xml&quot; to &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\reflection.nofilenames&quot;.
   XslTransform (v2018.7.8.0)
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
@@ -79,12 +76,12 @@ TransformManifest:
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
-Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\TransformManifest.proj&quot; (default targets).
-    Last step completed in 00:00:00.4249
+Done Building Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\TransformManifest.proj&quot; (default targets).
+    Last step completed in 00:00:00.9215
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0160
+    Last step completed in 00:00:00.0461
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -93,190 +90,188 @@ Checking for other token files...
 Checking for code snippets files...
 Copying images and creating the media map file...
 Generating conceptual topic files
-    Parsing topic file &#39;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\Welcome.aml&#39;
-    P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\Welcome.aml -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\20303d4a-c075-4e31-9440-6fb14852f806.xml
-    Parsing topic file &#39;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\VersionHistory.aml&#39;
-    P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\VersionHistory.aml -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\007ef1e9-5f14-4416-8d67-47a014ee62ab.xml
-    Parsing topic file &#39;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\v1.0.0.0.aml&#39;
-    P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\v1.0.0.0.aml -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\f98f62f3-6a00-4942-a668-ffc76c41a17d.xml
-    Last step completed in 00:00:00.0479
+    Parsing topic file &#39;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\Welcome.aml&#39;
+    P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\Welcome.aml -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\20303d4a-c075-4e31-9440-6fb14852f806.xml
+    Parsing topic file &#39;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\VersionHistory.aml&#39;
+    P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\VersionHistory.aml -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\007ef1e9-5f14-4416-8d67-47a014ee62ab.xml
+    Parsing topic file &#39;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\v1.0.0.0.aml&#39;
+    P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\Content\VersionHistory\v1.0.0.0.aml -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\ddueXml\f98f62f3-6a00-4942-a668-ffc76c41a17d.xml
+    Last step completed in 00:00:00.1446
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     Merging topic IDs into manifest.xml
-    Last step completed in 00:00:00.0130
+    Last step completed in 00:00:00.0499
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
-P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\icons\favicon.ico -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\favicon.ico
-P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\icons\Help.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\Help.png
-    Last step completed in 00:00:00.0140
+P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\icons\favicon.ico -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\favicon.ico
+P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid\bbHierarchicalGrid.Documentation\icons\Help.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\Help.png
+    Last step completed in 00:00:00.0419
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
-[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 5/10/2019 8:43:49 PM.
-Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
+Build started 5/31/2019 1:25:46 AM.
+Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2018.7.8.0)
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
-Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+Done Building Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\GenerateIntermediateTOC.proj&quot; (default targets).
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.2164
+    Last step completed in 00:00:00.2859
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.1805
+    Last step completed in 00:00:00.3042
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
-P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\sandcastle.config
+P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\sandcastle.config
   Updating reference topic configurations.
   Updating conceptual topic configurations.
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00.0040
+    Last step completed in 00:00:00.0120
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
-[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - BuildTopics.proj]
-Build started 5/10/2019 8:43:50 PM.
-Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj&quot; on node 1 (default targets).
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - BuildTopics.proj]
+Build started 5/31/2019 1:25:46 AM.
+Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj&quot; on node 1 (default targets).
 BuildTopics:
   BuildAssembler (v2018.7.8.0)
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-BuildAssembler : warning : ResolveReferenceLinksComponent: [N:bbHierarchicalGrid.Attributes] Unknown reference link target &#39;T:Xceed.Wpf.Toolkit.DateTimePicker&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:bbHierarchicalGrid.Attributes.bbEditablePropertyAttribute.#ctor(System.Boolean,System.Boolean)] Missing &lt;param name=&quot;acceptReturn&quot;/&gt; documentation [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:bbHierarchicalGrid.Attributes.bbEditablePropertyAttribute.#ctor(System.Boolean,System.Boolean)] Missing &lt;param name=&quot;read_only&quot;/&gt; documentation [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.Attributes.bbUseDateTimePickerAttribute] Unknown reference link target &#39;T:Xceed.Wpf.Toolkit.DateTimePicker&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.Models.bbItem] Unknown reference link target &#39;T:Prism.Mvvm.BindableBase&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.Models.bbItem] Unknown reference link target &#39;T:Prism.Mvvm.BindableBase&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.ViewModels.bbViewModel`1] Unknown reference link target &#39;T:Prism.Mvvm.BindableBase&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.ExpandCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.LoadCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:bbHierarchicalGrid.ViewModels.bbViewModel`1.Remove(`0)] Missing &lt;returns&gt; documentation [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.SearchCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.SortCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [N:bbHierarchicalGrid.Attributes] Unknown reference link target &#39;T:Xceed.Wpf.Toolkit.DateTimePicker&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.Attributes.bbUseDateTimePickerAttribute] Unknown reference link target &#39;T:Xceed.Wpf.Toolkit.DateTimePicker&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.Models.bbItem] Unknown reference link target &#39;T:Prism.Mvvm.BindableBase&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.Models.bbItem] Unknown reference link target &#39;T:Prism.Mvvm.BindableBase&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:bbHierarchicalGrid.ViewModels.bbViewModel`1] Unknown reference link target &#39;T:Prism.Mvvm.BindableBase&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.ExpandCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.LoadCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:bbHierarchicalGrid.ViewModels.bbViewModel`1.Remove(`0)] Missing &lt;returns&gt; documentation [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.SearchCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:bbHierarchicalGrid.ViewModels.bbViewModel`1.SortCommand] Unknown reference link target &#39;T:Prism.Commands.DelegateCommand`1&#39;. [P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj]
   Processed 86 topic(s)
-  12 warning(s)
+  10 warning(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
   ResolveArtLinksComponent: Copying media files...
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 8 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
-Done Building Project &quot;P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj&quot; (default targets).
-    Last step completed in 00:00:07.3872
+Done Building Project &quot;P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\BuildTopics.proj&quot; (default targets).
+    Last step completed in 00:00:11.7170
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0060
+    Last step completed in 00:00:00.0069
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
-[C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - ExtractHtmlInfo.proj]
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - ExtractHtmlInfo.proj]
 Sandcastle Help File Builder and Tools, version 2018.7.8.0
 Copyright c 2006-2018, Eric Woodruff, All Rights Reserved
 E-Mail: Eric@EWoodruff.us
 
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
-Processing website files in P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website
+Processing website files in P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website
 Processed 86 HTML files
 Sorting keywords and generating See Also indices
-Saving website keyword index to P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\WebKI.xml
-Saving website table of contents to P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\WebTOC.xml
-    Last step completed in 00:00:00.2623
+Saving website keyword index to P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\WebKI.xml
+Saving website table of contents to P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\WebTOC.xml
+    Last step completed in 00:00:00.5811
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\AlertCaution.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\AlertNote.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\AlertSecurity.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\CFW.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\CodeExample.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protoperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\puboperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\SectionCollapsed.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\SectionExpanded.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\slMobile.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\static.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\xna.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\branding.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-cs-CZ.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-de-DE.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-en-US.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-es-ES.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-fr-FR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-Help1.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-HelpViewer.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-it-IT.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-ja-JP.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-ko-KR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-pl-PL.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-pt-BR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-ru-RU.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-tr-TR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-Website.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-zh-CN.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-zh-TW.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\index.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\search.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\SearchHelp.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\SearchHelp.inc.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\SearchHelp.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\Web.Config
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\html\GeneralError.htm -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\html\GeneralError.htm
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\html\PageNotFound.htm -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\html\PageNotFound.htm
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\Search.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocClose.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocCollapsed.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocExpanded.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocOpen.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\branding-Website.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\clipboard.min.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; P:\Blue Byte LLC\source\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00.4967
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\Web.Config
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\html\GeneralError.htm -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\html\GeneralError.htm
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\html\PageNotFound.htm -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\html\PageNotFound.htm
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\Search.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocClose.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocCollapsed.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocExpanded.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\icons\TocOpen.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\branding-Website.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\clipboard.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; P:\Blue Byte LLC\src\bbHierarchicalGrid\bbHierarchicalGrid.DocumentationRepo\Working\Output\Website\scripts\jquery-1.11.0.min.js
+    Last step completed in 00:00:00.6523
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -287,21 +282,21 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00.1695
+</plugIn>    Last step completed in 00:00:00.2803
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 209 files for the website content
-    Last step completed in 00:00:00.6612
+    Last step completed in 00:00:02.1003
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.1815
+    Last step completed in 00:00:01.1825
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 5/10/2019 8:43:59 PM.  Total time: 00:00:12.4199
+Build completed successfully at 5/31/2019 1:26:03 AM.  Total time: 00:00:23.3308
 
 </buildStep>
 </shfbBuild>
