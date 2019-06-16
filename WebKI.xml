@@ -2,7 +2,6 @@
 <HelpKI>
   <HelpKINode Title="AcceptReturn property" Url="html/P_bbHierarchicalGrid_Attributes_bbEditablePropertyAttribute_AcceptReturn.htm" />
   <HelpKINode Title="Add method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Add.htm" />
-  <HelpKINode Title="Arabic enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
   <HelpKINode Title="Background property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_Background.htm" />
   <HelpKINode Title="bbColumnOrderAttribute class">
     <HelpKINode Title="bbColumnOrderAttribute Class" Url="html/T_bbHierarchicalGrid_Attributes_bbColumnOrderAttribute.htm" />
@@ -42,9 +41,6 @@
   <HelpKINode Title="bbHierarchicalGrid.bbHierarchicalDataGrid class" Url="html/T_bbHierarchicalGrid_bbHierarchicalDataGrid.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Core namespace" Url="html/N_bbHierarchicalGrid_Core.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Core.bbUtility class" Url="html/T_bbHierarchicalGrid_Core_bbUtility.htm" />
-  <HelpKINode Title="bbHierarchicalGrid.Enums namespace" Url="html/N_bbHierarchicalGrid_Enums.htm" />
-  <HelpKINode Title="bbHierarchicalGrid.Enums.DisplayLanguage enumeration" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
-  <HelpKINode Title="bbHierarchicalGrid.Enums.ExpanderStyle enumeration" Url="html/T_bbHierarchicalGrid_Enums_ExpanderStyle.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Exceptions namespace" Url="html/N_bbHierarchicalGrid_Exceptions.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Exceptions.bbException class" Url="html/T_bbHierarchicalGrid_Exceptions_bbException.htm" />
   <HelpKINode Title="bbHierarchicalGrid.Models namespace" Url="html/N_bbHierarchicalGrid_Models.htm" />
@@ -119,6 +115,7 @@
   <HelpKINode Title="bbViewModel(Of T).CanUserReorderColumns property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
   <HelpKINode Title="bbViewModel(Of T).ExpandCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
   <HelpKINode Title="bbViewModel(Of T).FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
+  <HelpKINode Title="bbViewModel(Of T).FontFamily property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FontFamily.htm" />
   <HelpKINode Title="bbViewModel(Of T).GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
   <HelpKINode Title="bbViewModel(Of T).GetSelectedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
   <HelpKINode Title="bbViewModel(Of T).Initialize method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Initialize.htm" />
@@ -147,6 +144,7 @@
   <HelpKINode Title="bbViewModel&lt;T&gt;.CanUserReorderColumns property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.ExpandCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
+  <HelpKINode Title="bbViewModel&lt;T&gt;.FontFamily property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FontFamily.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.GetSelectedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetSelectedItems.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.Initialize method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_Initialize.htm" />
@@ -162,18 +160,12 @@
   <HelpKINode Title="bbViewModel&lt;T&gt;.SearchToolBarVisibility property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SearchToolBarVisibility.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.SelectedItem property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SelectedItem.htm" />
   <HelpKINode Title="bbViewModel&lt;T&gt;.SortCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SortCommand.htm" />
-  <HelpKINode Title="Box enumeration member" Url="html/T_bbHierarchicalGrid_Enums_ExpanderStyle.htm" />
   <HelpKINode Title="CanUserReorderColumns property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_CanUserReorderColumns.htm" />
   <HelpKINode Title="Children property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Children.htm" />
-  <HelpKINode Title="Chinese enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
-  <HelpKINode Title="Default enumeration member" Url="html/T_bbHierarchicalGrid_Enums_ExpanderStyle.htm" />
-  <HelpKINode Title="DisplayLanguage enumeration" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
-  <HelpKINode Title="English enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
   <HelpKINode Title="ExpandCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_ExpandCommand.htm" />
   <HelpKINode Title="Expanded property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Expanded.htm" />
-  <HelpKINode Title="ExpanderStyle enumeration" Url="html/T_bbHierarchicalGrid_Enums_ExpanderStyle.htm" />
   <HelpKINode Title="FlowDirection property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FlowDirection.htm" />
-  <HelpKINode Title="French enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
+  <HelpKINode Title="FontFamily property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_FontFamily.htm" />
   <HelpKINode Title="GetAllChildren(Of T) method" Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
   <HelpKINode Title="GetAllChildren&lt;T&gt; method" Url="html/M_bbHierarchicalGrid_Models_bbItemExtension_GetAllChildren__1.htm" />
   <HelpKINode Title="GetCheckedItems method" Url="html/M_bbHierarchicalGrid_ViewModels_bbViewModel_1_GetCheckedItems.htm" />
@@ -205,10 +197,8 @@
   <HelpKINode Title="Selected property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Selected.htm" />
   <HelpKINode Title="SelectedItem property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SelectedItem.htm" />
   <HelpKINode Title="SortCommand property" Url="html/P_bbHierarchicalGrid_ViewModels_bbViewModel_1_SortCommand.htm" />
-  <HelpKINode Title="Spanish enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
   <HelpKINode Title="Thumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_Thumbnail.htm" />
   <HelpKINode Title="ToBitmapImage method" Url="html/M_bbHierarchicalGrid_Core_bbUtility_ToBitmapImage.htm" />
-  <HelpKINode Title="Undefined enumeration member" Url="html/T_bbHierarchicalGrid_Enums_DisplayLanguage.htm" />
   <HelpKINode Title="UseThumbnail property" Url="html/P_bbHierarchicalGrid_Models_bbItem_UseThumbnail.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/f98f62f3-6a00-4942-a668-ffc76c41a17d.htm" />
